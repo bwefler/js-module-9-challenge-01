@@ -12,7 +12,8 @@ body {
   justify-content: center;
   margin: 0;
   font-family: "Open Sans", sans-serif;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  text-transform: none;         /* ### ### */
   color: rgb(46, 42, 42);
   font-size: 16px;
   text-align: center;
